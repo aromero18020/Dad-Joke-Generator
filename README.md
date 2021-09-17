@@ -32,7 +32,8 @@
 
 
 ## Screenshots
-![Dadjokegenerator Screenshot](https://user-images.githubusercontent.com/85530349/132899078-5424a3f4-8538-4b0b-b9b2-df3240f000cb.PNG)
+![screenshot of dad joke generator](https://user-images.githubusercontent.com/85530349/133808931-f34c3aa0-b02b-4238-9c0a-eb7557ea30a0.png)
+
 
 
 ## Usage
@@ -51,7 +52,10 @@ Areas to Improve on:
 -
 
 To do List:
-- add additional jokes to function
+- Add additional jokes to function
+- Add light/dark modes
+- Add submit your own joke option, stores entry into database.
+- Make website mobile responsive
 - *IDEA* add additional button and function, New button would display as "Tell Me Another"?
 
 ## Acknowledgements
@@ -61,5 +65,5 @@ Give credit here.
 
 
 ## Contact
-Created by Andre(aromero18020), Benji(norvalbv), Mircea(zenandreas), and Ethan(Crocket77).
+Created by Andre(aromero18020), Benji(norvalbv), and Mircea(zenandreas).
 
